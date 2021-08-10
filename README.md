@@ -11,7 +11,7 @@
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Myhtz-PS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
-  <img align="right" alt="Myhtz-Cute" height="400" width="400" src="https://share-cdn.picrew.me/shareImg/org/202108/338224_2tbAzdMa.png">
+  <img align="right" alt="Myhtz-Cute" height="200" width="200" src="https://share-cdn.picrew.me/shareImg/org/202108/338224_2tbAzdMa.png">
 </div>
   
 <div>
