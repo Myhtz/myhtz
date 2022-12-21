@@ -1,7 +1,7 @@
 ### Ola! Eu sou a Myllena Metzker
 
 - 🔭 Estou atualmente trabalhando com Front-End
-- 🌱 Estudando Html/CSS/JavaScript
+- 🌱 HTML/CSS/JavaScript/SASS
 - 😄 Pronouns: ela/dela
 
 <div>
